@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168900334130",
+    "project_id": "ergasia-2-f1ae1",
+    "storage_bucket": "ergasia-2-f1ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168900334130:android:e7b775a2b5a8287e93622b",
+        "android_client_info": {
+          "package_name": "com.shubh.kindleLibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168900334130-sge5avob1i3bvf9q9l5mb026pn3rk9qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74T9iCe8Q45dV02PAXGFMKkbUmGIt5w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168900334130-sge5avob1i3bvf9q9l5mb026pn3rk9qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
